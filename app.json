@@ -1,7 +1,7 @@
 {
   "name": "Tabbycat",
   "description": "Debating tournament tabulation software for two-team parliamentary formats",
-  "repository": "https://github.com/TabbycatDebate/tabbycat",
+  "repository": "https://github.com/ahsanchow/tabbycat/tree/master",
   "keywords": ["debate", "debating"],
   "website": "https://tabbycat.readthedocs.io/",
   "addons": [
